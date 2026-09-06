@@ -8,7 +8,7 @@
     <ArtifactId>HotelReservationSystem</ArtifactId>
     <version>1.0-SNAPSHOT</version>
     <name>Hotel Reservation System</name>
-    <url>http://localhost:8080/HRS</url>
+    <url>http://localhost:8345/HRS</url>
     <dependencies>
         <!-- Servlet API -->
         <dependency>
